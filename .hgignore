@@ -2,5 +2,5 @@
 syntax: glob
 
 node_modules
-dist/
+
 .vscode/
